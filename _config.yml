@@ -3,21 +3,21 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Sebastian Lohr
+title: Junior Software Developer
+email: business@sebastian-lohr.de
+website: www.github.com/slohrsh
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: 
+github_username:  slohrsh
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: sebastian.lohr.52
 # flickr_username: jekyll
-instagram_username: chillwildlife
+instagram_username: slohrsh.photography
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: sebastian-lohr-7bb9a3b9
 # googleplus_username: +jekyll
 
 # About Section
