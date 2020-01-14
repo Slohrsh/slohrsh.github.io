@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Sebastian Lohr
 title: Junior Software Developer
 email: business@sebastian-lohr.de
-website: www.github.com/slohrsh
+# website: www.github.com/slohrsh
 
 # Social links
 # twitter_username: 
@@ -15,18 +15,17 @@ github_username:  slohrsh
 facebook_username: sebastian.lohr.52
 # flickr_username: jekyll
 instagram_username: slohrsh.photography
-linkedin_username: jameswgrant
+linkedin_username: sebastian-lohr-7bb9a3b9
 # pinterest_username: jekyll
-youtube_username: sebastian-lohr-7bb9a3b9
+# youtube_username: sebastian-lohr-7bb9a3b9
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Immer neue Ziele setzen, ständig über sich hinauswachsen. Sich selbst übertrumpfen und stets die Komfortzone verlassen. 
+  Neue Dinge lernen und mit Freude in neuen Projekten umsetzen.
 
 # Projects Section
 # projects_title: Projects
@@ -40,14 +39,14 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Neben meiner Tätigkeit als Software Entwickler brenne ich für:
+   - Fotografie
+   - Gitarre für mich selbst spielen
+   - Themen über persönliche Weiterentwicklung
+   - Fitness Sport
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme

@@ -1,0 +1,10 @@
+- layout: top-middle
+  name: Meine big 5 of Life
+  quote: >
+    In anlehnung zu dem Buch "!"The Big Five for Life: Was wirklich zählt im Leben" 
+  description: | # this will include new lines to allow paragraphs
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
