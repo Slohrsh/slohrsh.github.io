@@ -6,29 +6,24 @@ favicon: images/favicon.ico
 name: Sebastian Lohr
 title: Junior Software Developer
 email: business@sebastian-lohr.de
-# website: www.github.com/slohrsh
 
 darkmode: true
 
 # Social links
-# twitter_username: 
 github_username:  slohrsh
-# dribbble_username: jekyll
 facebook_username: sebastian.lohr.52
-# flickr_username: jekyll
 instagram_username: slohrsh.photography
 linkedin_username: sebastian-lohr-7bb9a3b9
-xing_username: Sebastian_Lohr5/cv
-# pinterest_username: jekyll
-# youtube_username: sebastian-lohr-7bb9a3b9
-# googleplus_username: +jekyll
+xing_username: Sebastian_Lohr5
 
 # About Section
 about_title: Über mich
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+quote: >
   Immer neue Ziele setzen, ständig über sich hinauswachsen. Sich selbst übertrumpfen und stets die Komfortzone verlassen. 
   Neue Dinge lernen und mit Freude in neuen Projekten umsetzen.
+about_content: | 
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 # Projects Section
 projects_title: Big 5 of Life
@@ -41,7 +36,7 @@ education_title: Ausbildung
 
 # More Section
 more_title: Nett to know
-more_content: | # this will include new lines to allow paragraphs
+more_content: | 
   Neben meiner Tätigkeit als Software Entwickler brenne ich für:
    - Fotografie
    - Gitarre für mich selbst spielen

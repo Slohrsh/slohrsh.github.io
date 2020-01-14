@@ -2,9 +2,13 @@
   name: Meine big 5 of Life
   quote: >
     In Anlehnung zu dem Buch <a href="https://www.amazon.de/Big-Five-Life-wirklich-z%C3%A4hlt/dp/3423345284/ref=asc_df_3423345284/?tag=googshopde-21&linkCode=df0&hvadid=310244201257&hvpos=1o1&hvnetw=g&hvrand=16973779133194182894&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1003945&hvtargid=pla-456144432383&psc=1&th=1&psc=1&tag=&ref=&adgrpid=60945662319&hvpone=&hvptwo=&hvadid=310244201257&hvpos=1o1&hvnetw=g&hvrand=16973779133194182894&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1003945&hvtargid=pla-456144432383">"The Big Five for Life: Was wirklich zählt im Leben" </a>
-  description: | # this will include new lines to allow paragraphs
+  description: > # this will include new lines to allow paragraphs
     1
+
     2
+
     3
+
     4
+    
     5
