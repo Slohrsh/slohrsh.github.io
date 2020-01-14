@@ -21,23 +21,23 @@ linkedin_username: sebastian-lohr-7bb9a3b9
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: Über mich
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Immer neue Ziele setzen, ständig über sich hinauswachsen. Sich selbst übertrumpfen und stets die Komfortzone verlassen. 
   Neue Dinge lernen und mit Freude in neuen Projekten umsetzen.
 
 # Projects Section
-# projects_title: Projects
+projects_title: Big 5 of Life
 
 # Experience Section
-# experience_title: Experience
+experience_title: Erfahrung
 
 # Education Section
-# educaton_title: Education
+educaton_title: Ausbildung
 
 # More Section
-# more_title: A Little More About Me
+more_title: Nett to know
 more_content: | # this will include new lines to allow paragraphs
   Neben meiner Tätigkeit als Software Entwickler brenne ich für:
    - Fotografie
