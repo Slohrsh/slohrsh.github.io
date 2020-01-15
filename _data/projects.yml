@@ -1,8 +1,9 @@
-- layout: top
+- layout: top-middle
   name: Meine Big Five of Life
   quote: >
     In Anlehnung an das Buch <a href="https://www.amazon.de/Big-Five-Life-wirklich-z%C3%A4hlt/dp/3423345284/ref=asc_df_3423345284/?tag=googshopde-21&linkCode=df0&hvadid=310244201257&hvpos=1o1&hvnetw=g&hvrand=16973779133194182894&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1003945&hvtargid=pla-456144432383&psc=1&th=1&psc=1&tag=&ref=&adgrpid=60945662319&hvpone=&hvptwo=&hvadid=310244201257&hvpos=1o1&hvnetw=g&hvrand=16973779133194182894&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1003945&hvtargid=pla-456144432383">"The Big Five for Life: Was wirklich zählt im Leben" </a>
   description: |
+  <center>
     <b>F</b> <b>F</b>amilie Gründen
 
     <b>F</b> <b>F</b>inanzielle Freiheit erreichen
@@ -15,3 +16,4 @@
 
     Wenn Sie oder jemand, den Sie kennen, mir dabei helfen können, meine Big Five zu erfüllen, kontaktieren 
     Sie mich bitte unter folgender E-Mail: <a href="mailto:kontakt@sebastian-lohr.de">kontakt@sebastian-lohr.de</a>
+ </center>

@@ -46,11 +46,21 @@ more_title: Nett to know
 more_content: | 
   Neben meiner Tätigkeit als Software Entwickler brenne ich für:
    - Fotografie
-   - Gitarre für mich selbst spielen
+   - Gitarre spielen
    - Themen über persönliche Weiterentwicklung
    - Fitness Sport
 
-# Footer
+   Podcasts die ich sehr empfehlen kann:
+   - <a href="https://www.innoq.com/de/podcast/">INNOQ Podcast</a> 
+   ~ Der INOOQ Podcast ist unglaublich gut um einen Überblick über die Technologien und Architekturpatterns zu bekommen, 
+   die gerade angesagt sind. Man merkt sofort mit wie viel Herz und Leidenschaft die Mitarbeiter 
+   über ihre Passion reden. Ich empfehle sehr mal reinzuhören. Mir hat es schon viel für meine Projekte gebracht.
+   - <a href="https://www.heise.de/developer/podcast/">SoftwareArchitekTOUR-Podcas(ch)t.</a> ~ Der Podcast hat meine Leidenschaft für 
+   Software-Architektur geweckt. Noch während meiner Studenzeit habe ich angefangen diesen Podcast zu verschlingen. Dabei wurde mir klar,
+   dass ich auch Architekt werden möchte. Es ist unheimlich interessant und bereichernd diesem Podcast zuzuhören.
+   - <a href="https://www.steffenkirchner.de/kostenlose-inhalte/alle-folgen-podcast-motivation-erfolg.php">Lebensstark Podcast</a> ~
+   Steffen Kirchner ist wirkleich ein herausragender Personalcoach. Er hat es von der ersten Folge an geschafft mein Leben zu verändern.
+   Er ist nicht zuletzt ein großer Grund wieso es diese Website hier gibt und hat mein Handeln nachhaltig zum besseren verändert.
 footer_show_references: false
 
 # Build settings
