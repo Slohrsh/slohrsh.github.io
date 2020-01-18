@@ -1,4 +1,14 @@
 - layout: left
+  company: Cleveration UG Haftungsbeschränkt (noch in Gründung)
+  job_title: CTO
+  dates: ab März 2020
+  quote: >
+    Ein Nebengewerbe, aus Begeisterung für neue Technologien zum lernen neuer Erfahrungen.
+  description: |
+    Wir finden, dass man noch viel zu wenige Termine online abschließen kann. Unsere Vision ist, ein Produkt auf den Markt zu bringen, das es jeder Branche für wenig Geld
+    ermöglicht ein Reservierungstool in ihre Website einzubauen.
+
+- layout: left
   company: ACTICO GmbH
   link: actico.com
   job_title: Junior Software Developder
@@ -16,36 +26,56 @@
   quote: >
    Dokomposition eines Monolithen in Microservices mit Hilfe von Domain Driven Design ~ Note 1,2
   description: |
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Die Arbeit an dem Thema war unheimlich interessant und sehr bereichernd. Ich konnte neue Dinge wie Event Storming ausprobieren und evaluieren wie gut diese Sessions funktionierten.
 
+    Es hat mir sehr viel Spaß gemacht mit den Mitarbeitern zu reden und die einzelnen Module so herauszuarbeiten. Später konnte ich nun diese Module im Strategic Design in eine Context Map
+    überführen. Das größte Problem, auf das wir gestoßen sind, war, dass wir die Daten nicht auf die Services aufspalten konnten. Jeder Service hat immer Zugriff auf Daten gebraucht, die 
+    ein anderer Service auch gebraucht hat. Wir mussten somit einen neunen Microservice nur für die Datenbank festlegen, der als Shared Cernel fungiert.
+    Die Entscheidung ist vertretbar, da die Daten extern importiert werden und die Microservices größtenteils diese Daten nur analysieren und nicht verändern. Der nachteil ist jedoch das 
+    JPA-Mapping. Verändern sich Entitäten, müssen sie in jedem Microservice angepasst werden.
+    
 - layout: left
   company: ACTICO Corp. Chicago
   link: actico.com
   job_title: Intern
   dates: September 2017 - Februar 2018
   quote: >
-   Der Moment in dem meine Liebe zu großstädten geweckt wurde
+    Da das Team dort sehr klein war, konnte ich in jeden Bereich tiefe Einblicke erhalten. Der Moment in dem meine Liebe zu Großstädten geweckt wurde. (Auf meinem Instagram-Account können Sie die Reise nachvollziehen)
   description: | 
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Meine Aufgaben:
 
+    - Direkter Kundenkontakt
+
+    - Vorbereiten von Präsentationen über POCs
+
+    - Features in Kundenprojekten weitertreiben.
+    
 - layout: left
   company: VHS Bodenseekreis
   link: vhs-bodenseekreis.de
   job_title: Dozent
   dates: Oktober 2016 - Februar 2017
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Es war eine sehr interessante Erfahrung in Eigenverantwortung Schulungsmaterial zu erarbeiten und über mehrere Termine zu vermitteln.
   description: | 
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+    Meine Aufgaben:
+    
+    Android Einsteiger- und Fortgeschrittenenkurse
+    
 - layout: left
   company: Sebastian Lohr & Benjamin Müller GbR
   job_title: Consultant
   dates: Oktober 2015 - Juni 2016
   quote: >
-   Das erste mal, bei dem ich mit Selbstständigkeit in Berührung gekommen bin
+   Das erste mal, bei dem ich mit Selbstständigkeit in Berührung gekommen bin.
   description: |
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Meine Aufgaben:
+    
+    - Bereitstellen von SharePoint Lernmaterialien
+    
+    - Enge Zusammenarbeit mit dem Kunden
+    
+    - Projektmanagement
 
 - layout: left
   company: Kreakt!v e.V.
@@ -53,6 +83,15 @@
   job_title: Computer & Information System Manager
   dates: Oktober 2015 - März 2016
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Im Studium habe ich gemerkt, dass ich mehr Verantwortung übernehmen wollte. So entschloss ich mich die Leitung der IT für die studentische Unternehmensberatung zu übernehmen.
+    Die Zeit war sehr fordernt, jedoch auch sehr lehrreich.
   description: |
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Meine Aufgaben:
+    
+    - Wartung der Systeme
+    
+    - Aufgaben Delegieren
+    
+    - Benutzer Support
+    
+    - Interne Softwareprojekte bearbeiten
