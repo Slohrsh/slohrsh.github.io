@@ -3,7 +3,7 @@
   job_title: CTO
   dates: ab März 2020
   quote: >
-    Ein Nebengewerbe, aus Begeisterung für neue Technologien zum lernen neuer Erfahrungen.
+    Ein Nebengewerbe, aus Begeisterung für neue Technologien zum bilden neuer Erfahrungen.
   description: |
     Wir finden, dass man noch viel zu wenige Termine online abschließen kann. Unsere Vision ist, ein Produkt auf den Markt zu bringen, das es jeder Branche für wenig Geld
     ermöglicht ein Reservierungstool in ihre Website einzubauen.
@@ -29,7 +29,9 @@
     Die Arbeit an dem Thema war unheimlich interessant und sehr bereichernd. Ich konnte neue Dinge wie Event Storming ausprobieren und evaluieren wie gut diese Sessions funktionierten.
 
     Es hat mir sehr viel Spaß gemacht mit den Mitarbeitern zu reden und die einzelnen Module so herauszuarbeiten. Später konnte ich nun diese Module im Strategic Design in eine Context Map
-    überführen. Das größte Problem, auf das wir gestoßen sind, war, dass wir die Daten nicht auf die Services aufspalten konnten. Jeder Service hat immer Zugriff auf Daten gebraucht, die 
+    überführen. 
+    
+    Das größte Problem, auf das wir gestoßen sind, war, dass wir die Daten nicht auf die Services aufspalten konnten. Jeder Service hat immer Zugriff auf Daten gebraucht, die 
     ein anderer Service auch gebraucht hat. Wir mussten somit einen neunen Microservice nur für die Datenbank festlegen, der als Shared Cernel fungiert.
     Die Entscheidung ist vertretbar, da die Daten extern importiert werden und die Microservices größtenteils diese Daten nur analysieren und nicht verändern. Der nachteil ist jedoch das 
     JPA-Mapping. Verändern sich Entitäten, müssen sie in jedem Microservice angepasst werden.
