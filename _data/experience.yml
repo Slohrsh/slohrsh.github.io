@@ -3,10 +3,11 @@
   job_title: CTO
   dates: ab März 2020
   quote: >
-    Ein Nebengewerbe, aus Begeisterung für neue Technologien zum bilden neuer Erfahrungen.
+    Ein Nebengewerbe, aus Begeisterung für neue Technologien und zur Bildung neuer Erfahrungen.
   description: |
-    Wir finden, dass man noch viel zu wenige Termine online abschließen kann. Unsere Vision ist, ein Produkt auf den Markt zu bringen, das es jeder Branche für wenig Geld
-    ermöglicht ein Reservierungstool in ihre Website einzubauen.
+    Wir sind der Meinung, dass man noch viel zu wenige Termine online abgeschlossen werden können. 
+    Unsere Vision ist, ein Produkt auf den Markt zu bringen, das jeder Branche ermöglicht für wenig Geld
+    ein Reservierungstool in ihre Website zu integrieren.
 
 - layout: left
   company: ACTICO GmbH
@@ -17,11 +18,11 @@
     Die Arbeit als Junior Software Developder ~ Erste Erfahrungen im kundengetriebenen Projektgeschäft
   description: |
     Es ist sehr interessant zu sehen wie ein kundengetriebenes Softwareprojekt funktioniert. In dem Projekt wird DevOps gelebt. Es kann sehr schnell
-    und flexibel auf Kundwünsche eingegangen werden. Meine Aufgaben gehen von einfachenen Änderungswünschen in der UI bis zum Einbau neuer Features.
-    Ab und zu bin ich bei dem Kunden vor Ort und leiste dort Support und sitze in Meetings zu neuen Features bei. 
+    und flexibel auf Kundenwünsche eingegangen werden. Meine Aufgaben gehen von einfachenen Änderungswünschen in der UI bis zum Einbau neuer Features.
+    Ab und zu bin ich bei den Kunden vor Ort und leiste dort Support und sitze in Meetings zu neuen Features bei. 
     
-    Außerdem führe ich meine Features bei Abnahmen vor. Dort können dann direkt vom Kunden änderungswüsche aufgenommen werden, die zum 
-    Nächsten Patch nachgeliefert werden können.
+    Außerdem führe ich meine Features bei Abnahmen vor. Dort können dann direkt von dem Kunden Änderungswüsche aufgenommen werden, die zum 
+    nächsten Patch nachgeliefert werden können.
     
 - layout: left
   company: ACTICO GmbH
@@ -31,14 +32,14 @@
   quote: >
    Dokomposition eines Monolithen in Microservices mit Hilfe von Domain Driven Design ~ Note 1,2
   description: |
-    Die Arbeit an dem Thema war unheimlich interessant und sehr bereichernd. Ich konnte neue Dinge wie Event Storming ausprobieren und evaluieren wie gut diese Sessions funktionierten.
+    Die Arbeit an diesem Thema war unheimlich interessant und sehr bereichernd. Ich konnte neue Dinge wie Event Storming ausprobieren und evaluieren wie gut diese Sessions funktionierten.
 
     Es hat mir sehr viel Spaß gemacht mit den Mitarbeitern zu reden und die einzelnen Module so herauszuarbeiten. Später konnte ich nun diese Module im Strategic Design in eine Context Map
     überführen. 
     
-    Das größte Problem, auf das wir gestoßen sind, war, dass wir die Daten nicht auf die Services aufspalten konnten. Jeder Service hat immer Zugriff auf Daten gebraucht, die 
-    ein anderer Service auch gebraucht hat. Wir mussten somit einen neunen Microservice nur für die Datenbank festlegen, der als Shared Cernel fungiert.
-    Die Entscheidung ist vertretbar, da die Daten extern importiert werden und die Microservices größtenteils diese Daten nur analysieren und nicht verändern. Der nachteil ist jedoch das 
+    Das größte Problem auf das wir gestoßen sind, war, dass wir die Daten nicht auf die Services aufspalten konnten. Jeder Service hat immer Zugriff auf Daten gebraucht, die 
+    ein anderer Service auch verwendet hat. Wir mussten somit einen neunen Microservice nur für die Datenbank festlegen, der als Shared Cernel fungiert.
+    Die Entscheidung ist vertretbar, da die Daten extern importiert werden und die Microservices größtenteils diese Daten nur analysieren und nicht verändern. Der Nachteil ist jedoch das 
     JPA-Mapping. Verändern sich Entitäten, müssen sie in jedem Microservice angepasst werden.
     
 - layout: left
@@ -49,13 +50,11 @@
   quote: >
     Da das Team dort sehr klein war, konnte ich in jeden Bereich tiefe Einblicke erhalten. Der Moment in dem meine Liebe zu Großstädten geweckt wurde. (Auf meinem Instagram-Account können Sie die Reise nachvollziehen)
   description: | 
-    Die Zeit in Chicago war sehr außergewöhnlich für mich. Ich musste sehr stark mit meinen Änsten kämpfen um diese Reise anzutreten.
-    Schlussendlich habe ich mich dafür entschieden, weil ich wusste dass es mich persönlich sehr stark voranbringen würde und ich wusste, dass
-    ich das nur erreiche wenn ich aus meiner Comfortzone ausbreche.
+    Die Zeit in Chicago war sehr prägend für mich. Ich musste sehr stark mit meinen Änsten kämpfen um diese Reise anzutreten.
+    Schlussendlich habe ich mich dafür entschieden, weil ich wusste dass es mich persönlich sehr stark voranbringen würde und
+    ich das nur erreiche wenn ich meine Komfortzone verlasse.
 
-    Das Team, das für Amerika zuständig ist, war zu der Zeit recht klein und so hatte ich die Möglichkeit in alle Felder einblicke zu erhalten.
-
-    Mir wurde sehr viel Vertrauen in mich und meine Fähigkeiten gelegt. So durfte ich recht schnell in den Direkten Kontakt mit Kunden treten und 
+    Es wurde sehr viel Vertrauen in mich und meine Fähigkeiten gelegt. So durfte ich recht schnell in den direkten Kontakt mit Kunden treten und 
     POCs bei verschiedenen Pitches vorstellen. Außerdem wurde ich in verschiedenen Kundenprojekten zum umsetzen von Features eingesetzt.
     
 - layout: left
@@ -64,21 +63,19 @@
   job_title: Dozent
   dates: Oktober 2016 - Februar 2017
   quote: >
-    Es war eine sehr interessante Erfahrung in Eigenverantwortung Schulungsmaterial zu erarbeiten und über mehrere Termine zu vermitteln.
+    Es war eine sehr interessante Erfahrung eigenverantwortlich Schulungsmaterial zu erarbeiten und über mehrere Termine zu vermitteln.
   description: | 
-    Ich habe für ein Semester mein Brunder vertreten um Einsteiger und Fortgeschrittenen-Kurse für Android anzubieten. Da das Material von meinem
+    Ich habe ein Semester in Vertretung für meinen Bruder Einsteiger und Fortgeschrittenen-Kurse für Android unterrichtet. Da das Material von meinem
     Bruder langsam in die Jahre kam, habe ich diese von Grundauf überarbeitet und an die neueste Android version angepasst.
-
-    Es war eine sehr gute und interessante Erfahrung in Eigenverantwortung Schulungsmaterial vorzubereiten und dann in den Kursen zu vermitteln.
     
 - layout: left
   company: Sebastian Lohr & Benjamin Müller GbR
   job_title: Consultant
   dates: Oktober 2015 - Juni 2016
   quote: >
-   Das erste mal, bei dem ich mit Selbstständigkeit in Berührung gekommen bin.
+    Das erste Mal, bei dem ich mit Selbstständigkeit in Berührung gekommen bin.
   description: |
-    Es war sehr aufregend das erste Mal eine Firma zu beraten. Den Auftrag haben wir über Kreaktiv vermittelt.
+    Es war sehr spannend das erste Mal eine Firma zu beraten. Den Auftrag haben wir über Kreaktiv vermittelt.
 
     Unsere Aufgabe war es, für einen großen Konzern Schulungsmaterial für Sharepoint zu erstellen, das weltweit ausgerollt wurde.
     Wir haben dort sehr stark mit dem Kunden zusammengearbeitet und einmal die Woche ein Statusupdate gegeben in dem wir Feedback zu unserer
@@ -90,9 +87,9 @@
   job_title: Computer & Information System Manager
   dates: Oktober 2015 - März 2016
   quote: >
-    Im Studium habe ich gemerkt, dass ich mehr Verantwortung übernehmen wollte. So entschloss ich mich die Leitung der IT für die studentische Unternehmensberatung zu übernehmen.
-    Die Zeit war sehr fordernt, jedoch auch sehr lehrreich.
+    Im Studium stellte ich fest, dass ich mehr Verantwortung übernehmen wollte. So entschloss ich mich die Leitung der IT für die studentische Unternehmensberatung zu übernehmen.
+    Die Zeit war sehr fordernd, jedoch auch sehr lehrreich.
   description: |
-    Der Vorstand wird einmal im Jahr gewählt. Ich habe zu Anfang in dem Team als einfaches Mitglied gearbeitet. 
+    Der Vorstand wird einmal im Jahr gewählt. Ich habe zu Anfang im Team als einfaches Mitglied gearbeitet. 
     Im folgenden Jahr habe ich dann mich aufstellen lassen und wurde gewählt. Meine Aufgaben waren administrativ. Ich habe hauptsächlich das interne
     Sharepoint administriert.

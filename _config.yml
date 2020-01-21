@@ -28,11 +28,11 @@ about_content: |
 
   Meine Neugier ist das, was mich antreibt. Ich interessiere mich sehr für Software Architektur und bilde mich unglaublich gern selber weiter.
   Seit 2018 gehe ich jährlich auf die <a href="https://www.code-days.de/">Code Days.</a> Ich suche ständig nach neuen Herausforderungen 
-  und möglichkeiten mein Wissen in kleinen Projekten einzusetzen oder durch größere Projekte neues wissen zu erlangen.
+  und Möglichkeiten mein Wissen in kleinen Projekten einzusetzen oder durch größere Projekte neues Wissen zu erlangen.
 
   Mein aktuelles Projekt ist ein größeres, das mir die Chance bietet mich in Angular einzuarbeiten. Da es ein kommerzielles Ziel hat,
-  freue ich mich schon darauf Angular im vollen umfang von der Entwicklung bis zum Deployment kennenzulernen. Was mich aber fast noch mehr freut,
-  ist dass wir im Backend AWS einsetzen und ich so mich umfangreich dort einarbeiten kann. Es macht einfach unheimlich Spaß zu sehen, wie alle
+  freue ich mich schon darauf Angular in vollem Umfang von der Entwicklung bis zum Deployment kennenzulernen. Was mich aber fast noch mehr freut
+  ist, dass wir im Backend AWS einsetzen und ich mich somit dort umfangreich einarbeiten kann. Es ist unheimlich beeindruckend, wie alle
   Services dort ineinandergreifen. Verfolgend sie <a href="https://dev.cleveration.com/">hier</a> den Fortschritt des Projekts!
   
 # Projects Section
@@ -63,7 +63,7 @@ more_content: |
    dass ich auch Architekt werden möchte. Es ist unheimlich interessant und bereichernd diesem Podcast zuzuhören.
    - <a href="https://www.steffenkirchner.de/kostenlose-inhalte/alle-folgen-podcast-motivation-erfolg.php">Lebensstark Podcast</a> ~
    Steffen Kirchner ist wirkleich ein herausragender Personalcoach. Er hat es von der ersten Folge an geschafft mein Leben zu verändern.
-   Er ist nicht zuletzt ein großer Grund wieso es diese Website hier gibt und hat mein Handeln nachhaltig zum besseren verändert.
+   Er ist nicht zuletzt ein Grund wieso es diese Website hier gibt und hat mein Handeln nachhaltig zum besseren verändert.
 footer_show_references: false
 
 # Build settings
