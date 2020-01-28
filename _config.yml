@@ -1,51 +1,45 @@
-# Site
 repository: Slohrsh/slohrsh.github.io
 favicon: images/favicon.ico
 
-# Personal info
 name: Sebastian Lohr
 title: Junior Software Developer
 email: business@sebastian-lohr.de
 phone: +49 151 72135311
 
-darkmode: true
-
 gtag: "UA-156249213-1"
 
-# Social links
 github_username:  slohrsh
 facebook_username: sebastian.lohr.52
 instagram_username: slohrsh.photography
 linkedin_username: sebastian-lohr-7bb9a3b9
 xing_username: Sebastian_Lohr5
 
-# About Section
+
 about_title: Über mich
 about_profile_image: images/profile.jpg
 about_content: | 
-  <i>Immer neue Ziele setzen, ständig über sich hinauswachsen. Sich selbst übertrumpfen und stets die Komfortzone verlassen. 
-  Neue Dinge lernen und mit Freude in neuen Projekten umsetzen.</i>
+  <i>"Immer neue Ziele setzen, ständig über sich hinauswachsen. Sich selbst übertrumpfen und stets die Komfortzone verlassen. 
+  Neue Dinge lernen und mit Freude in neuen Projekten umsetzen"</i>
 
-  Meine Neugier ist das, was mich antreibt. Ich interessiere mich sehr für Software Architektur und bilde mich unglaublich gern selber weiter.
-  Seit 2018 gehe ich jährlich auf die <a href="https://www.code-days.de/">Code Days.</a> Ich suche ständig nach neuen Herausforderungen 
-  und Möglichkeiten mein Wissen in kleinen Projekten einzusetzen oder durch größere Projekte neues Wissen zu erlangen.
+  Meine Neugier ist was mich antreibt. Mein Interesse gilt insbesondere der Software
+  Architektur. In diesem und dazugehörigen Bereichen bilde ich mich selbst mit großer Freude
+  stetig weiter. Seit 2018 besuche ich jährlich die <a href="https://www.code-days.de/">Code Days.</a> Auf der Suche nach neuen
+  Herausforderungen und Möglichkeiten meine Fähigkeiten anzuwenden und neues Wissen
+  anzueignen ist mir kein Projekt zu klein oder zu groß.
 
-  Mein aktuelles Projekt ist ein größeres, das mir die Chance bietet mich in Angular einzuarbeiten. Da es ein kommerzielles Ziel hat,
-  freue ich mich schon darauf Angular in vollem Umfang von der Entwicklung bis zum Deployment kennenzulernen. Was mich aber fast noch mehr freut
-  ist, dass wir im Backend AWS einsetzen und ich mich somit dort umfangreich einarbeiten kann. Es ist unheimlich beeindruckend, wie alle
-  Services dort ineinandergreifen. Verfolgend sie <a href="https://dev.cleveration.com/">hier</a> den Fortschritt des Projekts!
+  Derzeit befasse ich mich intensiv mit Angular um ein größeres Projekt mit kommerziellem
+  Ziel umzusetzen. Angular wird mich dabei von der Entwicklung bis zum Deployment
+  begleiten. Im Backend wird AWS eingesetzt, in das ich mich parallel zu Angular umfassend
+  einarbeite. Das ineinander greifen von allen möglichen Services fasziniert mich hierbei
+  besonders. Verfolgen Sie <a href="https://dev.cleveration.com/">hier</a> den Fortschritt meines Projektes.
   
-# Projects Section
 projects_title: Big Five for Life
 
-# Experience Section
-experience_title: Erfahrung
+experience_title: Erfahrungen
 
-# Education Section
 education_title: Ausbildung
 
-# More Section
-more_title: Nett to know
+more_title: Hobbies und Interessen
 more_content: | 
   Neben meiner Tätigkeit als Software Entwickler brenne ich für:
    - Fotografie
@@ -59,14 +53,13 @@ more_content: |
    die gerade angesagt sind. Man merkt sofort mit wie viel Herz und Leidenschaft die Mitarbeiter 
    über ihre Passion reden. Ich empfehle sehr mal reinzuhören. Mir hat es schon viel für meine Projekte gebracht.
    - <a href="https://www.heise.de/developer/podcast/">SoftwareArchitekTOUR-Podcas(ch)t.</a> ~ Der Podcast hat meine Leidenschaft für 
-   Software-Architektur geweckt. Noch während meiner Studenzeit habe ich angefangen diesen Podcast zu verschlingen. Dabei wurde mir klar,
+   Software-Architektur geweckt. Noch während meiner Studienzeit habe ich angefangen diesen Podcast zu verschlingen. Dabei wurde mir klar,
    dass ich auch Architekt werden möchte. Es ist unheimlich interessant und bereichernd diesem Podcast zuzuhören.
    - <a href="https://www.steffenkirchner.de/kostenlose-inhalte/alle-folgen-podcast-motivation-erfolg.php">Lebensstark Podcast</a> ~
-   Steffen Kirchner ist wirkleich ein herausragender Personalcoach. Er hat es von der ersten Folge an geschafft mein Leben zu verändern.
-   Er ist nicht zuletzt ein Grund wieso es diese Website hier gibt und hat mein Handeln nachhaltig zum besseren verändert.
+   Steffen Kirchner ist wirklich ein herausragender Personalcoach. Er hat es von der ersten Folge an geschafft mein Leben zu verändern.
+   Er ist nicht zuletzt ein Grund wieso es diese Website hier gibt und hat mein Handeln nachhaltig zum Besseren verändert.
 footer_show_references: false
 
-# Build settings
 remote_theme: sproogen/resume-theme
 
 sass:
