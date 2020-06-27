@@ -1,15 +1,4 @@
-- layout: left
-  company: Cleveration UG Haftungsbeschränkt (noch in Gründung)
-  job_title: CTO
-  dates: ab März 2020
-  quote: >
-    Ein Nebengewerbe, aus Begeisterung für neue Technologien und zur Bildung neuer Erfahrungen.
-  description: |
-    Wir sind der Meinung, dass man noch viel zu wenige Termine online abgeschlossen werden können. 
-    Unsere Vision ist, ein Produkt auf den Markt zu bringen, das jeder Branche ermöglicht für wenig Aufwand
-    ein Reservierungstool in ihre Website zu integrieren.
-
-- layout: left
+- - layout: left
   company: ACTICO GmbH
   link: actico.com
   job_title: Junior Software Developder
