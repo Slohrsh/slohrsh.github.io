@@ -29,7 +29,7 @@
     
     Die größte Herausforderung, war, dass ich die Daten nicht auf die Services aufspalten konnte. Jeder Service hat immer Zugriff 
     auf Daten gebraucht, die ein anderer Service auch verwendet hat. Die Daten konnten auch nicht auf den jeweiligen Bounded Context 
-    aufgespaltet werden. Ich musste somit einen neunen Microservice nur für die Datenbank festlegen, der als Shared Cernel fungiert. 
+    aufgespaltet werden. Ich musste somit einen neuen Microservice nur für die Datenbank festlegen, der als Shared Cernel fungiert. 
     Die Entscheidung ist vertretbar, da die Daten extern importiert werden und die Microservices größtenteils diese Daten nur analysieren 
     und nicht verändern. Der Nachteil ist jedoch das JPA-Mapping. Verändern sich Entitäten, müssen sie in jedem Microservice angepasst werden.
     
@@ -43,7 +43,7 @@
     Der Moment in dem meine Liebe zu Großstädten geweckt wurde.
   description: | 
     Die Zeit in Chicago war sehr prägend für mich. Ich komme aus einer kleinen Stadt am Bodensee und ging in die drittgrößte Stadt der Vereinigten
-    Staaten. Es war eine unglaubliche Erfahrung die Kulter der Amerikaner kennenzulernen. Ich ging sehr gerne auf öffentliche Konzerte im Millenium
+    Staaten. Es war eine unglaubliche Erfahrung die Kultur der Amerikaner kennenzulernen. Ich ging sehr gerne auf öffentliche Konzerte im Millennium
     Park und auf Straßenfeste. Es war sehr schön die Stadt mit jedem Tag ein bisschen mehr zu entdecken. 
 
     Bei der Arbeit wurde sehr viel Vertrauen in mich und meine Fähigkeiten gelegt. So durfte ich recht schnell in den direkten Kontakt mit 
