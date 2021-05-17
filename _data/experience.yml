@@ -1,8 +1,19 @@
 - layout: left
+  company: doubleSlash Net-Business GmbH
+  link: www.doubleslash.de
+  job_title: Software Developder
+  dates: Dezember 2018 - Heute
+  quote: >
+    Software Developer mit dem Schwerpunkt auf Software Architektur
+  description: |
+    Ich arbeite in einem agilen Team an einer Microservice umgebung, die in Azure auf einem Kubernetes Cluster gehostet werden.
+    Meine Aufgaben sind es die Microservice an den neuen Requirements zu erweitern.
+
+- layout: left
   company: ACTICO GmbH
   link: actico.com
   job_title: Junior Software Developder
-  dates: September 2018 - Heute
+  dates: September 2018 - Dezember 2020
   quote: >
     Erste Erfahrungen im kundengetriebenen Projektgeschäft als Junior Software Developer
   description: |
