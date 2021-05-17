@@ -1,0 +1,99 @@
+- layout: left
+  company: doubleSlash Net-Business GmbH
+  link: www.doubleslash.de
+  job_title: Software Developder
+  dates: Dezember 2018 - Heute
+  quote: >
+    Software Developer mit dem Schwerpunkt auf Software Architektur
+  description: |
+    Ich arbeite in einem agilen Team an einer Microservice umgebung, die in Azure auf einem Kubernetes Cluster gehostet werden.
+    Meine Aufgaben sind es die Microservice an den neuen Requirements zu erweitern.
+
+- layout: left
+  company: ACTICO GmbH
+  link: actico.com
+  job_title: Junior Software Developder
+  dates: September 2018 - Dezember 2020
+  quote: >
+    Erste Erfahrungen im kundengetriebenen Projektgeschäft als Junior Software Developer
+  description: |
+    Meine Aufgabe in diesem kundengetriebenem Softwareprojekt reichen von einfachen
+    Änderungswünschen in der UI, Implementierung / Einbau neuer Features bis hin zum
+    Kundensupport vor Ort, was auch Meetings zur Abstimmung neuer Features beinhaltet. 
+    
+    Außerdem präsentiere ich meine Features bei Abnahmen. Änderungswünsche können so direkt mit dem Kunden abgestimmt werden, 
+    die dann zum nächsten Patch ausgeliefert werden.
+    
+- layout: left
+  company: ACTICO GmbH
+  link: actico.com
+  job_title: Bachelorand
+  dates: März 2018 - Juni 2018
+  quote: >
+   Dokomposition eines Monolithen in Microservices mit Hilfe von Domain Driven Design ~ Note 1,2
+  description: |
+    Die Arbeit an diesem Thema war unheimlich interessant und sehr bereichernd. Ich konnte neue Dinge wie Event Storming ausprobieren 
+    und evaluieren wie gut diese Sessions funktionieren.
+
+    Es hat mir sehr viel Spaß gemacht mit den Mitarbeitern zu reden und die einzelnen Module so herauszuarbeiten. 
+    Später konnte ich diese Module im Strategic Design in eine Context Map überführen. 
+    
+    Die größte Herausforderung, war, dass ich die Daten nicht auf die Services aufspalten konnte. Jeder Service hat immer Zugriff 
+    auf Daten gebraucht, die ein anderer Service auch verwendet hat. Die Daten konnten auch nicht auf den jeweiligen Bounded Context 
+    aufgespaltet werden. Ich musste somit einen neuen Microservice nur für die Datenbank festlegen, der als Shared Cernel fungiert. 
+    Die Entscheidung ist vertretbar, da die Daten extern importiert werden und die Microservices größtenteils diese Daten nur analysieren 
+    und nicht verändern. Der Nachteil ist jedoch das JPA-Mapping. Verändern sich Entitäten, müssen sie in jedem Microservice angepasst werden.
+    
+- layout: left
+  company: ACTICO Corp. Chicago
+  link: actico.com
+  job_title: Intern
+  dates: September 2017 - Februar 2018
+  quote: >
+    Da das Team dort sehr klein war, konnte ich in jeden Bereich tiefe Einblicke erhalten. 
+    Der Moment in dem meine Liebe zu Großstädten geweckt wurde.
+  description: | 
+    Die Zeit in Chicago war sehr prägend für mich. Ich komme aus einer kleinen Stadt am Bodensee und ging in die drittgrößte Stadt der Vereinigten
+    Staaten. Es war eine unglaubliche Erfahrung die Kultur der Amerikaner kennenzulernen. Ich ging sehr gerne auf öffentliche Konzerte im Millennium
+    Park und auf Straßenfeste. Es war sehr schön die Stadt mit jedem Tag ein bisschen mehr zu entdecken. 
+
+    Bei der Arbeit wurde sehr viel Vertrauen in mich und meine Fähigkeiten gelegt. So durfte ich recht schnell in den direkten Kontakt mit 
+    Kunden treten und POCs bei verschiedenen Pitches vorstellen. Außerdem wurde ich in verschiedenen Kundenprojekten zum Umsetzen von 
+    Features eingesetzt.
+    
+- layout: left
+  company: VHS Bodenseekreis
+  link: vhs-bodenseekreis.de
+  job_title: Dozent
+  dates: Oktober 2016 - Februar 2017
+  quote: >
+    Es war eine sehr interessante Erfahrung eigenverantwortlich Schulungsmaterial zu erarbeiten und über mehrere Termine zu vermitteln.
+  description: | 
+    Ich habe ein Semester in Vertretung Einsteiger und Fortgeschrittenen-Kurse für Android unterrichtet. Da das vorhandene Lehrmaterial 
+    in die Jahre gekommen ist, habe ich diese von Grund auf überarbeitet und an die neueste Android Version angepasst.
+    
+- layout: left
+  company: Sebastian Lohr & Benjamin Müller GbR
+  job_title: Consultant
+  dates: Oktober 2015 - Juni 2016
+  quote: >
+    Das erste Mal, bei dem ich mit Selbstständigkeit in Berührung gekommen bin.
+  description: |
+    Unsere Aufgabe in diesem Projekt war es, für einen großen Konzern Schulungsmaterial für Sharepoint zu erstellen, das weltweit ausgerollt wurde.
+    Wir haben dort sehr stark mit dem Kunden zusammengearbeitet und einmal die Woche ein Statusupdate gegeben in dem wir Feedback zu unserer
+    Arbeit erhalten haben.
+
+    Es war sehr spannend nach der Einlernphase das erste Mal eine Firma zu beraten. Den Auftrag haben wir über Kreaktiv vermittelt bekommen.
+
+- layout: left
+  company: Kreakt!v e.V.
+  link: gokreaktiv.de
+  job_title: Computer & Information System Manager
+  dates: Oktober 2015 - März 2016
+  quote: >
+    Im Studium stellte ich fest, dass ich mehr Verantwortung übernehmen wollte. So entschloss ich mich die Leitung der IT für die studentische Unternehmensberatung zu übernehmen.
+    Die Zeit war sehr fordernd, jedoch auch sehr lehrreich.
+  description: |
+    Der Vorstand wird einmal im Jahr gewählt. Ich habe zu Anfang im Team als einfaches Mitglied gearbeitet. 
+    Im folgenden Jahr habe ich dann mich als Vorstand IT aufstellen lassen und wurde gewählt. Meine Aufgaben waren administrativ. Hauptsächlich 
+    habe ich das interne Sharepoint administriert.

@@ -1,0 +1,33 @@
+- layout: left
+  name: FH Ravensburg-Weingarten
+  dates: WiSe 2014 - SoSe 2018
+  qualification: BSc Computer Science
+  description: |
+    Die Zeit an der Hochschule war sehr prägend für mich. Der Kontrast zur Schule hat mich sehr beeindruckt. Endlich konnte ich meine Aufmerksamkeit
+    meiner Passion widmen. Durch das Studium hatte ich die Möglichkeit in viele Richtungen auszuprobieren. Was mich vom ersten Tag an sehr interessiert
+    hat war die studentische Unternehmensberatung. Ich fand es unfassbar, dass Studenten richtige Unternehmen beraten haben. Ich wollte sofort
+    mitwirken und auch ein Unternehmen beraten. Später wurde ich dann der Leiter der IT-Abteilung.
+
+    In den Projekten an der Hochschule hat es mir immer Spaß gemacht die Rolle des Architekten und Projektleiters einzunehmen. So koordinierte und
+    plante ich ein kleines Projekt für ein Kassensystem in C# für das Praktikum Software Engineering. In den Projekten für die Spieleentwicklung
+    fand ich es sehr interessant, einzelne eigenschaften wie Schwerkraft oder Einsammelbarkeit der Objekte in Komponenten zu trennen.
+
+    Für ein Projekt zur Aufklärungsarbeit für Flüchtlingshilfe in Form von einer Animation und Interviews nahm ich die Position
+    des Projektleiters ein und arbeitete am Zeitplan und der Korrespondenz mit den Verantwortlichen der Flüchtlingshilfe. Sehen Sie das Ergebnis
+    des Projekts <a href="https://www.youtube.com/watch?v=N6LW-rmvmAA&t">hier.</a>
+    
+    Auch außerhalb des Studiums habe ich die Herausforderung nicht gescheut. Für eine Code Challange von IT-Talents programmierte ich für das
+    <a href="https://www.it-talents.de/foerderung/code-competition/code-competition-09-2017">Game of Life</a>.
+
+    Um aus meinem implizitem Wissen der Hochschule explizites Wissen zu erlangen, erkannte ich schnell, dass ich neben dem Studium arbeiten musste.
+    Ich arbeitete als Second Level Office Support bei Rolls Royce Power Systems, als Software Tester bei innoSysTec und als Entwickler bei ACTICO.
+    Ich war stets sehr interessiert an den Tätigkeiten und suchte häufig das Gespräch mit den Kollegen um über ihre Erfahrungen in der Software
+    Entwicklung mehr zu erfahren. Besonders spaß machte es mir mit dem Software Architekten bei ACTICO über Architekturen und Entscheidungen im
+    aktuellen Projekt zu diskutieren. 
+    
+    Durch den Architekten entdeckte ich Domain Driven Design. Ich war fasziniert von der Idee und las sofort das Buch 
+    <a href="https://www.amazon.de/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=39M5QYM4FLD1P&keywords=domain+driven+design+distilled&qid=1579541972&sprefix=domain+driven%2Caps%2C186&sr=8-1">"Domain-Driven Design Distilled"</a>
+    von Vaughn Vernon. Ich war sofort begeistert und ich wusste, dass ich meine Thesis darüber schreiben wollte. 
+
+    Schlussendlich habe ich das auch getan. Ich schrieb meine Thesis darüber, wie man einen Monolithen mit Domain Driven Design in Microservices
+    überführen könnte.
